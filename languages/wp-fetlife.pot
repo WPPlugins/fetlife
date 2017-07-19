@@ -1,0 +1,320 @@
+# Copyright (C) 2015 WP-FetLife
+# This file is distributed under the same license as the WP-FetLife package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-FetLife 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-fetlife\n"
+"POT-Creation-Date: 2015-01-08 07:38:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: widgets/WPFetLifeEventParticipantsWidget.php:6
+msgid "FetLife Event - Participants"
+msgstr ""
+
+#: widgets/WPFetLifeEventParticipantsWidget.php:8
+msgid "Displays the RSVPs for a FetLife event in a list."
+msgstr ""
+
+#: widgets/WPFetLifeEventParticipantsWidget.php:16
+msgid "FetLife Event Participants"
+msgstr ""
+
+#: widgets/WPFetLifeEventWidget.php:16
+msgid "FetLife event ID:"
+msgstr ""
+
+#: widgets/WPFetLifeEventWidget.php:17
+msgid "The ID number of a FetLife Event."
+msgstr ""
+
+#: widgets/WPFetLifeProfileEventsWidget.php:6
+msgid "FetLife Profile - Events"
+msgstr ""
+
+#: widgets/WPFetLifeProfileEventsWidget.php:8
+msgid ""
+"Displays upcoming FetLife events shown on a FetLife profile page in a list."
+msgstr ""
+
+#: widgets/WPFetLifeProfileEventsWidget.php:16
+msgid "FetLife Events"
+msgstr ""
+
+#: widgets/WPFetLifeProfileGroupsWidget.php:6
+msgid "FetLife Profile - Groups"
+msgstr ""
+
+#: widgets/WPFetLifeProfileGroupsWidget.php:8
+msgid "Displays the FetLife Groups a user belongs to in a list."
+msgstr ""
+
+#: widgets/WPFetLifeProfileGroupsWidget.php:16
+msgid "FetLife Groups"
+msgstr ""
+
+#: widgets/WPFetLifeProfileWidget.php:16
+msgid "FetLife user ID:"
+msgstr ""
+
+#: widgets/WPFetLifeProfileWidget.php:17
+msgid "The user ID number of a FetLife user."
+msgstr ""
+
+#: widgets/WPFetLifeWidget.php:20
+msgid "No FetLife object ID present in widget."
+msgstr ""
+
+#: widgets/WPFetLifeWidget.php:110
+msgid "Title:"
+msgstr ""
+
+#: widgets/WPFetLifeWidget.php:111
+msgid "The widget title will be shown headlining its contents."
+msgstr ""
+
+#: widgets/WPFetLifeWidget.php:122
+msgid "Number of items to show:"
+msgstr ""
+
+#: widgets/WPFetLifeWidget.php:129
+msgid "Clear cache"
+msgstr ""
+
+#: widgets/WPFetLifeWidget.php:130
+msgid "(next time this widget loads will be slower)"
+msgstr ""
+
+#: widgets/WPFetLifeWidget.php:142
+msgid "Widget cache successfully cleared."
+msgstr ""
+
+#: widgets/WPFetLifeWidget.php:143
+msgid "Widget cache could not be cleared. (Did you already clear it?)"
+msgstr ""
+
+#: wp-fetlife.php:62 wp-fetlife.php:237
+msgid "WP-FetLife Settings"
+msgstr ""
+
+#. #-#-#-#-#  wp-fetlife.pot (WP-FetLife 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-fetlife.php:63
+msgid "WP-FetLife"
+msgstr ""
+
+#: wp-fetlife.php:70 wp-fetlife.php:71
+msgid "WP-FetLife Cache"
+msgstr ""
+
+#: wp-fetlife.php:93
+msgid "Connect to FetLife"
+msgstr ""
+
+#: wp-fetlife.php:93
+msgid ""
+"Almost done! Connect your blog to FetLife.com to begin using WP-FetLife."
+msgstr ""
+
+#: wp-fetlife.php:140
+msgid "Failed to connect to FetLife."
+msgstr ""
+
+#: wp-fetlife.php:180
+msgid ""
+"WP-FetLife is provided as free software, but sadly grocery stores do not "
+"offer free food. If you like this plugin, please consider %1$s to its %2$s. "
+"&hearts; Thank you!"
+msgstr ""
+
+#: wp-fetlife.php:181
+msgid "making a donation"
+msgstr ""
+
+#: wp-fetlife.php:182
+msgid "houseless, jobless, nomadic developer"
+msgstr ""
+
+#: wp-fetlife.php:198
+msgid "FetLife username cannot be empty."
+msgstr ""
+
+#: wp-fetlife.php:205
+msgid "FetLife password cannot be empty."
+msgstr ""
+
+#: wp-fetlife.php:214
+msgid "Unrecognized FetLife proxy URL value."
+msgstr ""
+
+#: wp-fetlife.php:229
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wp-fetlife.php:240
+msgid "Connection to FetLife"
+msgstr ""
+
+#: wp-fetlife.php:241
+msgid "Required settings to connect to FetLife."
+msgstr ""
+
+#: wp-fetlife.php:246
+msgid "Test connection to FetLife"
+msgstr ""
+
+#: wp-fetlife.php:251
+msgid "Test connection"
+msgstr ""
+
+#: wp-fetlife.php:252
+msgid "Test your connection settings."
+msgstr ""
+
+#: wp-fetlife.php:256
+msgid "Connected to FetLife as \"%s\"."
+msgstr ""
+
+#: wp-fetlife.php:257
+msgid "Success! Your connection to FetLife is functional."
+msgstr ""
+
+#: wp-fetlife.php:265
+msgid "FetLife username"
+msgstr ""
+
+#: wp-fetlife.php:268
+msgid "Type your FetLife username here"
+msgstr ""
+
+#: wp-fetlife.php:270
+msgid ""
+"Your FetLife username is also sometimes called your nickname. If you do not "
+"have a FetLife username, create one by registering an account on FetLife.com."
+msgstr ""
+
+#: wp-fetlife.php:276
+msgid "FetLife password"
+msgstr ""
+
+#: wp-fetlife.php:279
+msgid "Type your FetLife password here"
+msgstr ""
+
+#: wp-fetlife.php:281
+msgid ""
+"Your FetLife password is needed to retrieve your activity from FetLife. "
+"Never share this password with anyone."
+msgstr ""
+
+#: wp-fetlife.php:287
+msgid "Proxy URL"
+msgstr ""
+
+#: wp-fetlife.php:290
+msgid "socks://127.0.0.1:9050"
+msgstr ""
+
+#: wp-fetlife.php:292
+msgid ""
+"A proxy is a middle-man through which you can reach FetLife. This might be "
+"necessary in case direct connections to FetLife.com do not work. Leave this "
+"blank to connect directly, without using a proxy."
+msgstr ""
+
+#: wp-fetlife.php:294
+msgid ""
+"Use the special value %sauto%s to automatically select a proxy each time a "
+"connection is attempted."
+msgstr ""
+
+#: wp-fetlife.php:304
+msgid "WP-FetLife defaults"
+msgstr ""
+
+#: wp-fetlife.php:305
+msgid "Options for setting default behaviors."
+msgstr ""
+
+#: wp-fetlife.php:311
+msgid "Enable detailed debugging information?"
+msgstr ""
+
+#: wp-fetlife.php:318
+msgid ""
+"Turn this on only if you are experiencing problems using this plugin, or if "
+"you were told to do so by someone helping you fix a problem (or if you "
+"really know what you are doing). When enabled, extremely detailed technical "
+"information is displayed as a WordPress admin notice when you take certain "
+"actions. If you have also enabled WordPress's built-in debugging (%1$s) and "
+"debug log (%2$s) feature, additional information will be sent to a log file "
+"(%3$s). This file may contain sensitive information, so turn this off and "
+"erase the debug log file when you have resolved the issue."
+msgstr ""
+
+#: wp-fetlife.php:348
+msgid "Plugin cache has been cleared."
+msgstr ""
+
+#: wp-fetlife.php:349
+msgid "1 transient cleared."
+msgid_plural "%s transients deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: wp-fetlife.php:355
+msgid "There was an error clearing the plugin cache."
+msgstr ""
+
+#: wp-fetlife.php:361
+msgid "Clear WP-FetLife Cache"
+msgstr ""
+
+#: wp-fetlife.php:362
+msgid ""
+"If you regularly experience problems with WP-FetLife widgets, shortcodes, or "
+"other features, clearing the plugin cache may help fix the issue. Clearing "
+"the plugin cache may significantly slow down your website until the caches "
+"are refreshed. If you are experiencing problems with a particular widget or "
+"shortcode, try disabling the cache for that widget or shortcode only, "
+"instead of clearing all WP-FetLife cache."
+msgstr ""
+
+#: wp-fetlife.php:363
+msgid "Clear plugin cache"
+msgstr ""
+
+#: wp-fetlife.php:364
+msgid ""
+"When you clear the plugin cache, all copies of FetLife data this plugin "
+"accessed and currently stores in your database will be deleted. This "
+"operation cannot be undone. Plugin settings, such as your FetLife.com "
+"connection information and plugin-wide defaults, will not be touched."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/meitar/wp-fetlife"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add widgets, shortcodes, and more to easily show your FetLife activity on "
+"your WordPress blog. <strong>Like this plugin? Please <a href=\"https://www."
+"paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=TJLPJYXHSRBEE&amp;"
+"lc=US&amp;item_name=WP-FetLife&amp;item_number=WP-FetLife&amp;"
+"currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
+"\" title=\"Send a donation to the developer of WP-FetLife\">donate</a>. "
+"&hearts; Thank you!</strong>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Meitar Moscovitz <meitar@maymay.net>"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://maymay.net/"
+msgstr ""
